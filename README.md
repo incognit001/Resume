@@ -40,13 +40,4 @@
 	</section>
 	<section>
 		<h2>PROFESSIONAL EXPERIENCE</h2>
-		<article>
-			<h3>Cybersecurity Analyst: Suffolk University; Boston, MA. (July 2021 – April 2023)</h3>
-			<ul>
-				<li>Conducted daily log analysis using Azure Sentinel, resulting in an average of 60 incidents detected per week and a 40% reduction in false positives.</li>
-				<li>Proficient in utilizing network diagnostic tools &amp; protocols, such as Wireshark, Ping, &amp; Tracert, to diagnose &amp; resolve network connectivity issues.</li>
-				<li>Achieved a 25% reduction in security incidents through the implementation of enhanced firewall rules and configurations.</li>
-				<li>Analyzed malware samples using static &amp; dynamic analysis techniques, resulting in the identification of 10 previously unknown malware variants over the past year.</li>
-				<li>Performed vulnerability assessments &amp; penetration testing using tools like Nessus &amp; Nmap, resulting in the identification of critical vulnerabilities that were remediated within 72 hours.</li>
-				<li>Manages access controls &amp; user permissions using Azure Active Directory &amp; Azure Policy, ensuring the security &amp; integrity of university data.</li>
-				<li>Implement security controls &amp; best practices to ensure compliance with security standards &amp; frameworks, including NIST,
+
